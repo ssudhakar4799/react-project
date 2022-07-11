@@ -1,0 +1,15 @@
+.boxes{
+    background-color: blueviolet;
+    margin-left: 20px;
+    width: 31.5%;
+    height: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
